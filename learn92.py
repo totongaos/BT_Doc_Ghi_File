@@ -2,4 +2,7 @@
 # rồi lưu lại vào file  2to10.out (mỗi dòng 1 số)
 print("Hello")
 print("Hello")
+print("Hello")
+print("Hello")
+print("Hello")
 
